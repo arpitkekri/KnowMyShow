@@ -30,7 +30,7 @@ function getMovies(searchText) {
 
         $('#movies').html(output);
     })
-    .catch(() => {
+    .catch((err) => {
         console.log(err);
     });
 }

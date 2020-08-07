@@ -1,0 +1,14 @@
+#movies img, #movie img{
+    width: 100%;
+    margin-top: -15px;
+}
+
+@media(min-width: 960px) {
+    #movies .col-md-3 .well{
+        height:430px;
+    }
+
+    #movies .col-md-3 img{
+        height: 240px;
+    }
+}

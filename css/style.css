@@ -1,6 +1,12 @@
-#movies img, #movie img{
+#movies img{
     width: 100%;
     margin-top: -15px;
+}
+
+.mybuttoncenter{
+    display: flex;
+    margin: auto;
+    margin-top: 15px;
 }
 
 @media(min-width: 960px) {
@@ -11,4 +17,15 @@
     #movies .col-md-3 img{
         height: 240px;
     }
+}
+
+h2{
+    text-align: center;
+}
+
+.well{
+    margin: 25px;
+}
+.col-md-8{
+    max-width: 100%;
 }

@@ -1,4 +1,4 @@
-# MovieInfo Web App
+# [MovieInfo Web App](https://arpitkekri.github.io/MovieInfo_JavaScript-jQuery/)
 
 - JavaScript/jQuery web app that fetches movie data from the [OMDb API](http://www.omdbapi.com/)
 

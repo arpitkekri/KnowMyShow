@@ -1,5 +1,5 @@
 # [MovieInfo Web App](https://arpitkekri.github.io/MovieInfo_JavaScript-jQuery/)
-- Version 1.0.0 ***(major, minor, patch)***
+- __Version 1.0.0__ ***(major, minor, patch)***
 
 - JavaScript/jQuery web app that fetches movie data from the [OMDb API](http://www.omdbapi.com/)
 

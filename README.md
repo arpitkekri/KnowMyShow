@@ -2,6 +2,8 @@
 
 - JavaScript/jQuery web app that fetches movie data from the [OMDb API](http://www.omdbapi.com/)
 
+- Technology Used => JavaScript, jQuery, axios, bootstrap, css, html
+
 ## How to use?
 
 1. Just clone the repository and then

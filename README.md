@@ -25,16 +25,18 @@ Please make sure to update tests as appropriate.
 ## License
 Licensed under the [MIT License](LICENSE).
 
-## Information
+## Key Points
+- API : An application program interface (API) is a set of routines, protocols, and tools for building software applications. Basically, an API specifies how software components should interact.
+
+- REST API : A RESTful API is an API that uses HTTP requests to GET, PUT, POST and DELETE data. An API allows two software programs to communicate with each other.
+
 - What is axios : Axios is a promise-based HTTP client that sports an easy-to-use API. It makes HTTP requests to fetch or save data.
 
 - What is CDN : A content delivery network (CDN) refers to a geographically distributed group of servers that work together to provide fast delivery of Internet content.
 
 - To use jQuery CDN
 ```JavaScript
-<script src="https://code.jquery.com/jquery-3.5.1.min.js" 
-    integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" 
-    crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 ```
 
 - To use axios CDN

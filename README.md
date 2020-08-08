@@ -1,7 +1,7 @@
 # [MovieInfo Web App](https://arpitkekri.github.io/MovieInfo_JavaScript-jQuery/)
 - __Version 1.0.0__ ***(major, minor, patch)***
 
-- A responsive JavaScript ES6/jQuery web app that fetches movie data from the [OMDb API](http://www.omdbapi.com/)
+- A responsive JavaScript ES6/jQuery web app that fetches movie data from the [OMDb](http://www.omdbapi.com/) REST API.
 
 - Technology Used => JavaScript, jQuery, axios, bootstrap, css, html
 
@@ -41,5 +41,6 @@ Licensed under the [MIT License](LICENSE).
 ```JavaScript
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 ```
+- REST : REpresentational State Transfer
 
 - You can also download and run jQuery and axios on locally.

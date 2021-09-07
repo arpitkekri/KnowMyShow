@@ -9,6 +9,44 @@
     margin-top: 15px;
 }
 
+.float-btn{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#008eff;
+	color:#060606;
+	border-radius:50px;
+	text-align:center;
+	/* box-shadow: 2px 2px 3px #999; */
+}
+
+.my-float-btn{
+font-size:26px;
+margin-top:18px;
+}
+
+.footer {
+position: relative;
+right: 0;
+bottom: 0;
+left: 0;
+/* background-color: #494D5F; */
+text-align: center;
+}
+/*
+.footer a {
+text-decoration: None;
+color: black;
+}
+*/
+.footer a:hover {
+/* text-decoration: None; */
+color: #FFF;
+/* opacity: .7; */
+}
+
 @media(min-width: 960px) {
     #movies .col-md-3 .well{
         height:430px;
@@ -28,4 +66,10 @@ h2{
 }
 .col-md-8{
     max-width: 100%;
+}
+
+@media(max-width: 250px) {
+    .float-btn{
+        position: relative;
+    }
 }

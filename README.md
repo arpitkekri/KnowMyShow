@@ -1,4 +1,4 @@
-# [Know My Show](https://arpitkekri.github.io/KnowMyShow/)
+# [Know My Show](https://knowmyshow.tech/)
 - __Version 1.0.0__ ***(major, minor, patch)***
 
 - A responsive JavaScript ES6/jQuery web app that fetches movie data from the [OMDb](http://www.omdbapi.com/) REST API.
